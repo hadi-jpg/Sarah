@@ -118,7 +118,7 @@ onload = () => {
         
 
         const newMessage = document.createElement("div");
-        newMessage.innerText = "Maybe we talk less, but when we do I feel heard, I feel someone who cares, I just feel special. \n\n Maybe im the luckiest person alive, maybe I'm not. But from the bottom my heart, I dedicate this song to you.\n\n Stay Blessed Sarah.";
+        newMessage.innerText = "Maybe we talk less, but when we do, I feel heard, I feel someone who cares, I just feel special. \n\n Maybe im the luckiest person alive, maybe I'm not. But from the bottom my heart, I dedicate this song to you.\n\n Stay Blessed Sarah.";
         newMessage.style.fontSize = "50px";
         newMessage.style.fontFamily = "Tangerine";
         newMessage.style.color = "white";
